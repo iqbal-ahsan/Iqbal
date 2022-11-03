@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Iqbal-UIU
+- 👋 Hi, I’m @iqbal_uiu
+
 - 👀 I’m interested in robotics and hardware
 - 🌱 I’m currently studying computer science and engineering at United International University
 - 💞️ I’m looking to collaborate on 
