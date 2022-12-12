@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iqbal_uiu
+- 👋 Hi, I’m @iqbal_ahsan
 
 - 👀 I’m interested in robotics and hardware
 - 🌱 I’m currently studying computer science and engineering at United International University
@@ -7,6 +7,6 @@
 - 📫 How to reach me ...
 
 <!---
-Iqbal-UIU/Iqbal-UIU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Iqbal-ahsan/Iqbal-ahsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
